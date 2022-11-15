@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a python developer, enjoys a lot to work with python, C++. 🔭 I’m currently working in Allianz SE as a Data Scientist. At the same time, I'm doing my partial time master programm in computer science at TUM. 
+I'm an software engineer/solution architect, enjoy a lot to work with python, C++. 🔭 I’m currently working in Allianz SE as a Senior Data Scientist. At the same time, I'm doing my partial time master programm in computer science at TUM. 
 
 I like football, a big fan of Chelsea FC since 2007. 
 
